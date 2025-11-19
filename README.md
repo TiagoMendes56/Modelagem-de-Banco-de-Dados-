@@ -1,6 +1,6 @@
 # Projeto Cidade Inteligente – Educação
 
-Este repositório reúne o desenvolvimento do meu trabalho sobre Cidades Inteligentes, com foco especial no eixo Educação, acompanhado da evolução ao longo das aulas.
+Este repositório reúne o desenvolvimento do meu trabalho sobre a Cidade Inteligente, com foco especial no eixo Educação, acompanhado da evolução ao longo das aulas.
 
 🎯 Objetivo do Projeto
 
