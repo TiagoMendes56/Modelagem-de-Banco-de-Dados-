@@ -26,8 +26,8 @@ Este projeto foi construído de maneira incremental, conforme os conteúdos fora
 
 
 # 📈 Conclusão
-- A educação é um dos pilares mais impactados positivamente pela tecnologia.
+ A educação é um dos pilares mais impactados positivamente pela tecnologia.
 
-- Cidades inteligentes dependem diretamente de cidadãos bem informados e educados.
+ Cidades inteligentes dependem diretamente de cidadãos bem informados e educados.
 
-- A inovação pode reduzir desigualdades e melhorar significativamente o ensino.
+ A inovação pode reduzir desigualdades e melhorar significativamente o ensino.
