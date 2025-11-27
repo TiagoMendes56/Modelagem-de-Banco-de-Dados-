@@ -18,6 +18,13 @@ Explorar como soluções inteligentes podem transformar o setor educacional, uti
 # 🛠️ Desenvolvimento ao Longo das Aulas
 Este projeto foi construído de maneira incremental, conforme os conteúdos foram apresentados em sala
 
+**Etapas do Projeto ciadade inteligente:**
+- Modelo Conceitual
+- Projeto Lógico
+- Modelo Físico
+- Dicionário de Dados
+
+
 # 📈 Conclusão
 - A educação é um dos pilares mais impactados positivamente pela tecnologia.
 
